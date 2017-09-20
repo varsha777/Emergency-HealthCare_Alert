@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="2"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:layout_marginBottom="50dp"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.user.emergencyhealthcare.actvities.ActivityRegistration"
+    tools:showIn="@layout/activity_registration">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:orientation="vertical">
+
+           <android.support.design.widget.TextInputLayout
+               android:id="@+id/tl1"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content">
+
+               <EditText
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:id="@+id/efname"
+                   android:hint="Name"/>
+           </android.support.design.widget.TextInputLayout>
+
+           <android.support.design.widget.TextInputLayout
+               android:id="@+id/tl10"
+               android:layout_marginTop="10dp"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content">
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:orientation="vertical">
+
+               <LinearLayout
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:gravity="center_vertical"
+                   android:orientation="horizontal">
+
+               <TextView
+                   android:id="@+id/dob"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:hint="Date of Birth: "/>
+
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_marginLeft="5dp"
+               android:id="@+id/vdob"
+               android:visibility="gone"
+               android:hint="Date of Birth"/>
+
+
+               </LinearLayout>
+
+               <View
+                   android:layout_width="match_parent"
+                   android:layout_height="1dp"
+                   android:layout_marginBottom="1dp"
+                   android:background="@color/colorAccent" />
+           </LinearLayout>
+           </android.support.design.widget.TextInputLayout>
+
+           <android.support.design.widget.TextInputLayout
+               android:id="@+id/tl2"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content">
+
+           <EditText
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:id="@+id/reuname"
+               android:hint="Username"/>
+           </android.support.design.widget.TextInputLayout>
+
+           <android.support.design.widget.TextInputLayout
+               android:id="@+id/tl3"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content">
+
+           <EditText
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:id="@+id/repass"
+               android:hint="Password"
+               android:inputType="textPassword"/>
+           </android.support.design.widget.TextInputLayout>
+
+           <android.support.design.widget.TextInputLayout
+               android:id="@+id/tl4"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content">
+
+           <EditText
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:id="@+id/eemail"
+               android:hint="Email"/>
+           </android.support.design.widget.TextInputLayout>
+
+           <android.support.design.widget.TextInputLayout
+               android:id="@+id/tl5"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content">
+
+           <EditText
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:id="@+id/pphoneno"
+               android:hint="Phone No"/>
+           </android.support.design.widget.TextInputLayout>
+
+
+           <android.support.design.widget.TextInputLayout
+               android:id="@+id/tl6"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content">
+           <EditText
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:id="@+id/paddress"
+               android:hint="Address"/>
+           </android.support.design.widget.TextInputLayout>
+
+           <android.support.design.widget.TextInputLayout
+               android:id="@+id/tl7"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content">
+           <EditText
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:id="@+id/pbldgrp"
+               android:hint="Blood Group"/>
+           </android.support.design.widget.TextInputLayout>
+
+
+           <android.support.design.widget.TextInputLayout
+               android:id="@+id/tl8"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content">
+           <EditText
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:id="@+id/pemc1"
+               android:hint="Emergency Contact No1"/>
+           </android.support.design.widget.TextInputLayout>
+
+           <android.support.design.widget.TextInputLayout
+               android:id="@+id/tl9"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content">
+           <EditText
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:id="@+id/pemc2"
+               android:hint="Emergency Contact No2"/>
+           </android.support.design.widget.TextInputLayout>
+       </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

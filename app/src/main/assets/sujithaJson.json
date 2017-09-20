@@ -1,0 +1,122 @@
+{
+  "EastGodavari": [
+    {
+      "Name": "East Godavari",
+      "Address-1": "(08624 251804) A.P.Vidya Vidhana Parishad Community Hospital Blood Bank, Hospital Road, Gudur",
+      "Address-2": "(0861 2328500, 0861 2326833) Government Head Quarter Hospital Premises, Ist Floor, Nellore 0861 2328500, 0861 2326833",
+      "Address-3": "K.K Indian Red Cross Society Blood Bank-S. N0. 1083/3, RDO Office Compound, Trunk Road, Kavali"
+    }
+  ],
+
+  "WestGodavari": [
+    {
+      "Name": "WestGodavari",
+      "Address-1": "( 08672 222302) District Co-Ordinator Of Hospital Services Blood Bank-Ground Floor, District Hospital Premises, Machilipatnam",
+      "Address-2": "( 08676 257311, 08676 257317)Dr. Pinnamaneni Siddartha Inst. Of Medical Sci. And Res. Foundation Blood Bank-  Siddhartha Nagar Chinoutpalli (V), Gannavaram Mandal,  Gannavaram Mandal",
+      "Address-3": "( 08812 249668)Government Head Quarters Hospital Blood Bank- Government H.Q. Premises, Ground Floor, RR PET,  Eluru"
+
+    }
+  ],
+
+  "Krishna": [
+    {
+      "Name": "Krishna",
+      "Address-1": "(08674 245040) A.P.Vidya Vidhana Parishad Community Hospital Blood Bank, Hospital Road, Gudur",
+      "Address-2": "(0861 2328500, 0861 2326833)Nagarjuna Hospitals Limited Blood Bank-Second Floor, Kanuru, Vijayawada,Vijayawada",
+      "Address-3": "(0866 246 3333)Kamineni Health Care Pvt. . Blood Bank-1-51, 100 Ft New Auto Nagar Road, Poranki, Vijayawada"
+    }
+
+  ],
+
+  "Guntur": [
+    {
+      "Name": "Guntur",
+      "Address-1": "( 08644 228850)Apvvp District Hospital Blood Bank-Ground Floor, Hospital Premises, Chenchupet, Tenali",
+      "Address-2": "( 0866 2554701, 0866 2554705)Best Rotary Blood Bank-D.No. 22-6-54, 1st Floor, Sarojininaidu Sreet, Kothapet, Tenali",
+      "Address-3": "(0866 246 3333)Blessed Blood Bank-D.No. 5-1-45/1, 2nd Floor, Vijaya Hights Building, Palnadu Road, Narasaraopeta"
+    }
+
+  ],
+
+  "Prakasam": [
+    {
+      "Name": "Prakasam",
+      "Address-1": "(0859 2222345)Belif Blood Bank- Sai Complex III Floor, Addanki Bus Stop Centre, Kurnool Road,Ongole",
+      "Address-2": "(8592233310) District Head Quarters Hospital Blood Bank-1 St Floor, APVVP District Head Quarters Hospital,Ongole",
+      "Address-3": "(9908520073)Life Line Voluntary Blood Bank- Door No. 37-1-169/54, Second Floor, Whole Portion, Sundharaiah Bhavan Road,Ongole"
+    }
+
+  ],
+
+  "Nellore": [
+    {
+      "Name": "Nellore",
+      "Address-1": "(08624 251804)A.P.Vidya Vidhana Parishad Community Hospital Blood Bank- Hospital Road,Gudur",
+      "Address-2": "(8592233310)Indian Red Cross Society Blood Bank-Red Cross Road, Adjacent To Government Maternity Hospital, Near Vegetable Market,Nellore",
+      "Address-3": "( 0861 2317963, 0861 2317964, 0861 2317968)Narayana Medical College And General Hospital Blood Bank-1st Floor, A1 Wing, Chintareddypalem, Nellore"
+    }
+  ],
+
+  "Srikakulam": [
+    {
+      "Name": "Srikakulam",
+      "Address-1": "(08624 251804)Gmr Varalakhsmi Care Hospital Blood Bank-  GMR Nagar, Rajam,Hospital Road,Rajam",
+      "Address-2": "(8592233310)Indian Red Cross Society Blood Bank-Red Cross Road, Adjacent To Government Maternity Hospital, Near Vegetable Market,Nellore",
+      "Address-3": "( 0861 2317963, 0861 2317964, 0861 2317968)Narayana Medical College And General Hospital Blood Bank-1st Floor, A1 Wing, Chintareddypalem, Nellore"
+    }
+  ],
+
+  "Vizianagaram": [
+    {
+      "Name": "Vizianagaram",
+      "Address-1": "",
+      "Address-2": "",
+      "Address-3": ""
+    }
+  ],
+
+  "Visakhapatnam": [
+    {
+      "Name": "Visakhapatnam",
+      "Address-1": "(08933 226961, 08933 226900)Anil Neerukunda Hospital Blood Bank-Sangi Valasa, Bheemunipatnam (M),Visakhapatnam",
+      "Address-2": "(0891 252619, 0891 252622)Apollo Hospitals Heart And Kidney Centre Blood Bank- Apollo Hospitals Entps. , 10-50-80, Heart And Kidney Center, 1st Floor, Waltair Main Road,Visakhapatnam",
+      "Address-3": "(08924 223340)Apvvp Nt Rama Rao Vaidyalayam Blood Bank-Poolbagh Road,Anakapalle"
+    }
+  ],
+
+  "Kurnool": [
+    {
+      "Name": "Kurnool",
+      "Address-1": "(08518 255422)Government District Hospital Blood Bank-First Floor, APVVP District Hospital Premises, Nandyal",
+      "Address-2": "(08518 255422)Government General Hospital Blood Bank-First Floor, Government General Hospital Premises,Kurnool",
+      "Address-3": "(08518 255347)Indian Red Cross Society Blood Bank- Sy. No. 894 & 896/2, Ground And First Floor, DM & HO Campus,Kurnool,"
+    }
+  ],
+
+  "Chittoor": [
+    {
+      "Name": "Chittoor",
+      "Address-1": "(08572 22087)Apvvp Community Hospital-Area Hospital Premises,Madanapally",
+      "Address-2": "(08572 22087)District Head Quarter Hospital Blood Bank-1st Floor, District Head Quarter Hospital Premises,Chittoor",
+      "Address-3": "(0877 2234072)Government Maternity Hospital Blood Bank- Government Maternity Hospital Premises, Ruia Hospital Road,Tirupathi"
+    }
+  ],
+
+  "Kadapa": [
+    {
+      "Name": "Kadapa",
+      "Address-1": "(08562 253342, 08562 253154)Apvvp Area Hospital Blood Bank- Area Hospital Premises, Ground Floor,Proddutur",
+      "Address-2": "(08562 240900, 08562 240600)Fathima Institute Of Medical Sciences Blood Bank- Ramrajupally, Pulivendala Road, Kadapa",
+      "Address-3": "( 08562 275724, 08562 272829)Indian Red Cross Society Blood Bank-10/971, Bellam Mandy, Near Matipeddapuli, Trunk Road,Kadapa"
+    }
+  ],
+
+  "Anantapur": [
+    {
+      "Name": "Anantapur",
+      "Address-1": "(08554 275024)Government General Hospital Blood Bank (Formerly District Head Quarter Hospital-: District Head Quater Hospital Premises, Ground Floor, Anantapur",
+      "Address-2": "( 08555 287900, 08555 287388, 08555 287554)Sri Satya Sai Institute Of Higher Medical Sciences Blood Bank-District Area Hospital,Puttaparthi",
+      "Address-3": "(08554 246344) District Branch, Government Medical College Hospital Building, Engineering College Road, Sarada Nagar, Anantapur"
+    }
+  ]
+}
